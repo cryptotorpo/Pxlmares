@@ -5,7 +5,7 @@ import { IconName, IconPrefix } from '@fortawesome/fontawesome-common-types';
 
 function Footer() {
     return (
-        <div className='absolute bottom-0 w-[100%] bg-white flex flex-row justify-between gap-5 border-t-black border-t py-8'>
+        <div className='w-[100%] bg-white flex flex-row justify-between gap-5 border-t-gray-300 border-t py-8'>
             <div className = 'flex justify-center items-center w-1/3'>
                 <img src = "./img/small-logo.png" className = 'w-[100px]'></img>
             </div>
