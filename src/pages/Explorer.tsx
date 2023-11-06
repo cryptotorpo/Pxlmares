@@ -10,7 +10,9 @@ function Explorer() {
                 <div className='w-[80%] flex flex-col items-center'>
                     <div className='absolute top-[300px] w-full max-w-[500px]'>
                         <img src='./img/landing-logo.png' className='w-full h-full'></img>
-                        <p className=' text-slate-400 text-center'>Let <b>The Wild Child</b> be the wild card in your marketing strategy and stand out from the crowd. Don't be afraid to let your imagination run wild with <b>T.W.C</b>!</p>
+                        <p className=' text-slate-400 text-center'>
+                            <b>Pxlmares</b>, bring horror at your door, Our <b>DESIGNS</b> will leave you wanting more. Our tale will scare and make you jump, Feel their breath as the monsters thump
+                        </p>
                     </div>
                 </div>
             </div>
